@@ -67,16 +67,4 @@ Currently, I focus on:
 
 ---
 
-### 📈 GitHub Presence
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Open for collaborations, interesting technical discussions, or exploring agentic systems together. Feel free to connect! ✨</sub>
-</div>
